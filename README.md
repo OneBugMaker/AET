@@ -10,12 +10,16 @@ Deep learning-based intelligent diagnosis is a popular method to ensure the safe
 Autoencoder, few-shot diagnosis, interpretability, rolling bearings, transformer
 
 ## Paper
-    @article{wang2023auto,
-      title={Auto-embedding transformer for interpretable few-shot fault diagnosis of rolling bearings},
+    @ARTICLE{10315955,
       author={Wang, Gang and Liu, Dongdong and Cui, Lingli},
-      journal={IEEE Transactions on Reliability},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Transactions on Reliability}, 
+      title={Auto-Embedding Transformer for Interpretable Few-Shot Fault Diagnosis of Rolling Bearings}, 
+      year={2024},
+      volume={73},
+      number={2},
+      pages={1270-1279},
+      doi={10.1109/TR.2023.3328597}
     }
 
-    Online: https://ieeexplore.ieee.org/document/10315955
+
+Online: https://ieeexplore.ieee.org/document/10315955
